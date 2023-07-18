@@ -1,9 +1,10 @@
 test/
 build.xml
-hs_err_pid2500
-hs_err_pid7024
-hs_err_pid14576
-hs_err_pid17400
-hs_err_pid17640
-hs_err_pid21100
-hs_err_pid22972
+manifest.mf
+hs_err_pid2500.log
+hs_err_pid7024.log
+hs_err_pid14576.log
+hs_err_pid17400.log
+hs_err_pid17640.log
+hs_err_pid21100.log
+hs_err_pid22972.log
